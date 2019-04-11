@@ -1,0 +1,16 @@
+{
+  "name": "ipc-demo",
+  "repository": "https://github.com/abzats/electron-hello-world.git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Alexander",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
